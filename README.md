@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinjams
 - 👀 I’m interested in data analysis, webscraping and hacking
 - 🌱 I’m currently learning Python & R
-- 📫 How to reach me: don't.
+- 📫 How to reach me:
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
 sinjams/sinjams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
